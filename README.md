@@ -56,6 +56,11 @@ This dashboard uses **choropleth mapping**, a technique where regions are shaded
 
 ---
 
+## You can access the deployed Streamlit application here:
+https://sample-choropleth-dashboard-2nwey6rjjwjbx89tvbbav6.streamlit.app/
+
+---
+
 ## 📂 Project Structure
 
 ```bash
